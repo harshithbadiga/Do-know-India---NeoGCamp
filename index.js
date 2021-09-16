@@ -12,7 +12,13 @@ var questions = [{
     answer: "Hockey"},
     {
       question:"What is the national animal?",
-      answer:"Tiger"}]
+      answer:"Tiger"},
+         {
+    question:"What is the national bird?",
+    answer: "peacock"},
+       {
+    question:"How many states in India",
+    answer: "29"},]
 
  var highScores =[{
    name: "Harshith",
